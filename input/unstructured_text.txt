@@ -1,0 +1,500 @@
+Transaction Details: Charity donation of $424 from Acme Corp to Financial Trust.
+Payer: Acme Corp
+Receiver: Financial Trust
+Amount: $424
+
+Transaction Details: Charity donation of €4088 from Smith & Associates to Charity Fund.
+Payer: Smith & Associates
+Receiver: Charity Fund
+Amount: €4088
+
+Transaction Details: Software development fee of $4387 from Healthcare Trust to Save The Children.
+Payer: Healthcare Trust
+Receiver: Save The Children
+Amount: $4387
+
+Transaction Details: Donation for education programs of £420 from Global Aid Fund to XYZ Investments.
+Payer: Global Aid Fund
+Receiver: XYZ Investments
+Amount: £420
+
+Transaction Details: Equipment procurement of £1782 from John Doe to Charity Fund.
+Payer: John Doe
+Receiver: Charity Fund
+Amount: £1782
+
+Transaction Details: Equipment procurement of €832 from Tech Innovations to Save The Children.
+Payer: Tech Innovations
+Receiver: Save The Children
+Amount: €832
+
+Transaction Details: Legal services fee of $4861 from FinTech Solutions to Global Health Foundation.
+Payer: FinTech Solutions
+Receiver: Global Health Foundation
+Amount: $4861
+
+Transaction Details: Software development fee of $1754 from Healthcare Trust to Red Cross.
+Payer: Healthcare Trust
+Receiver: Red Cross
+Amount: $1754
+
+Transaction Details: Payment for medical supplies of £3743 from Global Aid Fund to Michael Johnson.
+Payer: Global Aid Fund
+Receiver: Michael Johnson
+Amount: £3743
+
+Transaction Details: Charity donation of £1548 from Healthcare Trust to Financial Trust.
+Payer: Healthcare Trust
+Receiver: Financial Trust
+Amount: £1548
+
+Transaction Details: Payment for medical supplies of £2052 from Global Aid Fund to Save The Children.
+Payer: Global Aid Fund
+Receiver: Save The Children
+Amount: £2052
+
+Transaction Details: Legal services fee of £973 from Jane Smith to Green Energy Inc..
+Payer: Jane Smith
+Receiver: Green Energy Inc.
+Amount: £973
+
+Transaction Details: Legal services fee of €2791 from Global Aid Fund to Red Cross.
+Payer: Global Aid Fund
+Receiver: Red Cross
+Amount: €2791
+
+Transaction Details: Software development fee of £641 from Healthcare Trust to Michael Johnson.
+Payer: Healthcare Trust
+Receiver: Michael Johnson
+Amount: £641
+
+Transaction Details: Wire transfer for stock purchase of £4166 from Acme Corp to Red Cross.
+Payer: Acme Corp
+Receiver: Red Cross
+Amount: £4166
+
+Transaction Details: Charity donation of £112 from Smith & Associates to Red Cross.
+Payer: Smith & Associates
+Receiver: Red Cross
+Amount: £112
+
+Transaction Details: Wire transfer for stock purchase of £1999 from Acme Corp to Smith & Associates.
+Payer: Acme Corp
+Receiver: Smith & Associates
+Amount: £1999
+
+Transaction Details: Wire transfer for stock purchase of €705 from Tech Innovations to XYZ Investments.
+Payer: Tech Innovations
+Receiver: XYZ Investments
+Amount: €705
+
+Transaction Details: Consulting services payment of $3479 from XYZ Ltd to Charity Fund.
+Payer: XYZ Ltd
+Receiver: Charity Fund
+Amount: $3479
+
+Transaction Details: Wire transfer for stock purchase of €2636 from Smith & Associates to Financial Trust.
+Payer: Smith & Associates
+Receiver: Financial Trust
+Amount: €2636
+
+Transaction Details: Wire transfer for stock purchase of $101 from Jane Smith to Green Energy Inc..
+Payer: Jane Smith
+Receiver: Green Energy Inc.
+Amount: $101
+
+Transaction Details: Consulting services payment of £3902 from Global Aid Fund to Smith & Associates.
+Payer: Global Aid Fund
+Receiver: Smith & Associates
+Amount: £3902
+
+Transaction Details: Marketing campaign funding of £4749 from ABC Enterprises to Smith & Associates.
+Payer: ABC Enterprises
+Receiver: Smith & Associates
+Amount: £4749
+
+Transaction Details: Equipment procurement of £296 from Acme Corp to Future Tech.
+Payer: Acme Corp
+Receiver: Future Tech
+Amount: £296
+
+Transaction Details: Wire transfer for stock purchase of $1052 from Healthcare Trust to Smith & Associates.
+Payer: Healthcare Trust
+Receiver: Smith & Associates
+Amount: $1052
+
+Transaction Details: Legal services fee of $723 from XYZ Ltd to Global Health Foundation.
+Payer: XYZ Ltd
+Receiver: Global Health Foundation
+Amount: $723
+
+Transaction Details: Payment for medical supplies of £4127 from Global Aid Fund to Global Health Foundation.
+Payer: Global Aid Fund
+Receiver: Global Health Foundation
+Amount: £4127
+
+Transaction Details: Equipment procurement of €4182 from Smith & Associates to Financial Trust.
+Payer: Smith & Associates
+Receiver: Financial Trust
+Amount: €4182
+
+Transaction Details: Charity donation of €1892 from Healthcare Trust to Charity Fund.
+Payer: Healthcare Trust
+Receiver: Charity Fund
+Amount: €1892
+
+Transaction Details: Equipment procurement of €4348 from Jane Smith to XYZ Investments.
+Payer: Jane Smith
+Receiver: XYZ Investments
+Amount: €4348
+
+Transaction Details: Charity donation of £2805 from Jane Smith to Michael Johnson.
+Payer: Jane Smith
+Receiver: Michael Johnson
+Amount: £2805
+
+Transaction Details: Marketing campaign funding of £3149 from XYZ Ltd to Green Energy Inc..
+Payer: XYZ Ltd
+Receiver: Green Energy Inc.
+Amount: £3149
+
+Transaction Details: Software development fee of €3781 from Global Aid Fund to Green Energy Inc..
+Payer: Global Aid Fund
+Receiver: Green Energy Inc.
+Amount: €3781
+
+Transaction Details: Donation for education programs of $3330 from XYZ Ltd to Green Energy Inc..
+Payer: XYZ Ltd
+Receiver: Green Energy Inc.
+Amount: $3330
+
+Transaction Details: Legal services fee of $3816 from XYZ Ltd to Michael Johnson.
+Payer: XYZ Ltd
+Receiver: Michael Johnson
+Amount: $3816
+
+Transaction Details: Legal services fee of $1339 from XYZ Ltd to XYZ Investments.
+Payer: XYZ Ltd
+Receiver: XYZ Investments
+Amount: $1339
+
+Transaction Details: Equipment procurement of €3166 from Tech Innovations to Global Health Foundation.
+Payer: Tech Innovations
+Receiver: Global Health Foundation
+Amount: €3166
+
+Transaction Details: Charity donation of $4998 from ABC Enterprises to XYZ Investments.
+Payer: ABC Enterprises
+Receiver: XYZ Investments
+Amount: $4998
+
+Transaction Details: Monthly salary transfer of £2179 from Smith & Associates to Green Energy Inc..
+Payer: Smith & Associates
+Receiver: Green Energy Inc.
+Amount: £2179
+
+Transaction Details: Marketing campaign funding of €1679 from Jane Smith to Green Energy Inc..
+Payer: Jane Smith
+Receiver: Green Energy Inc.
+Amount: €1679
+
+Transaction Details: Wire transfer for stock purchase of €1921 from Acme Corp to Save The Children.
+Payer: Acme Corp
+Receiver: Save The Children
+Amount: €1921
+
+Transaction Details: Payment for medical supplies of £4576 from Healthcare Trust to Save The Children.
+Payer: Healthcare Trust
+Receiver: Save The Children
+Amount: £4576
+
+Transaction Details: Charity donation of $1268 from Healthcare Trust to XYZ Investments.
+Payer: Healthcare Trust
+Receiver: XYZ Investments
+Amount: $1268
+
+Transaction Details: Monthly salary transfer of £250 from John Doe to Save The Children.
+Payer: John Doe
+Receiver: Save The Children
+Amount: £250
+
+Transaction Details: Monthly salary transfer of £1043 from John Doe to Smith & Associates.
+Payer: John Doe
+Receiver: Smith & Associates
+Amount: £1043
+
+Transaction Details: Payment for medical supplies of €4721 from Tech Innovations to Charity Fund.
+Payer: Tech Innovations
+Receiver: Charity Fund
+Amount: €4721
+
+Transaction Details: Payment for medical supplies of €1918 from Global Aid Fund to Red Cross.
+Payer: Global Aid Fund
+Receiver: Red Cross
+Amount: €1918
+
+Transaction Details: Consulting services payment of €2882 from Global Aid Fund to Global Health Foundation.
+Payer: Global Aid Fund
+Receiver: Global Health Foundation
+Amount: €2882
+
+Transaction Details: Charity donation of £2461 from Healthcare Trust to Global Health Foundation.
+Payer: Healthcare Trust
+Receiver: Global Health Foundation
+Amount: £2461
+
+Transaction Details: Donation for education programs of €219 from Tech Innovations to Charity Fund.
+Payer: Tech Innovations
+Receiver: Charity Fund
+Amount: €219
+
+Transaction Details: Legal services fee of €1957 from Smith & Associates to Save The Children.
+Payer: Smith & Associates
+Receiver: Save The Children
+Amount: €1957
+
+Transaction Details: Legal services fee of €3902 from Healthcare Trust to Save The Children.
+Payer: Healthcare Trust
+Receiver: Save The Children
+Amount: €3902
+
+Transaction Details: Legal services fee of £3458 from Global Aid Fund to Future Tech.
+Payer: Global Aid Fund
+Receiver: Future Tech
+Amount: £3458
+
+Transaction Details: Marketing campaign funding of £1040 from ABC Enterprises to XYZ Investments.
+Payer: ABC Enterprises
+Receiver: XYZ Investments
+Amount: £1040
+
+Transaction Details: Consulting services payment of $691 from FinTech Solutions to Financial Trust.
+Payer: FinTech Solutions
+Receiver: Financial Trust
+Amount: $691
+
+Transaction Details: Consulting services payment of $2367 from ABC Enterprises to Green Energy Inc..
+Payer: ABC Enterprises
+Receiver: Green Energy Inc.
+Amount: $2367
+
+Transaction Details: Donation for education programs of $3359 from Global Aid Fund to Financial Trust.
+Payer: Global Aid Fund
+Receiver: Financial Trust
+Amount: $3359
+
+Transaction Details: Equipment procurement of €4392 from FinTech Solutions to Smith & Associates.
+Payer: FinTech Solutions
+Receiver: Smith & Associates
+Amount: €4392
+
+Transaction Details: Equipment procurement of £3786 from John Doe to Michael Johnson.
+Payer: John Doe
+Receiver: Michael Johnson
+Amount: £3786
+
+Transaction Details: Charity donation of €505 from Healthcare Trust to Future Tech.
+Payer: Healthcare Trust
+Receiver: Future Tech
+Amount: €505
+
+Transaction Details: Charity donation of $1983 from Tech Innovations to Michael Johnson.
+Payer: Tech Innovations
+Receiver: Michael Johnson
+Amount: $1983
+
+Transaction Details: Legal services fee of €2558 from Smith & Associates to Save The Children.
+Payer: Smith & Associates
+Receiver: Save The Children
+Amount: €2558
+
+Transaction Details: Equipment procurement of £4894 from XYZ Ltd to Red Cross.
+Payer: XYZ Ltd
+Receiver: Red Cross
+Amount: £4894
+
+Transaction Details: Legal services fee of $4575 from Tech Innovations to Green Energy Inc..
+Payer: Tech Innovations
+Receiver: Green Energy Inc.
+Amount: $4575
+
+Transaction Details: Software development fee of €4504 from ABC Enterprises to Green Energy Inc..
+Payer: ABC Enterprises
+Receiver: Green Energy Inc.
+Amount: €4504
+
+Transaction Details: Charity donation of £2538 from John Doe to Red Cross.
+Payer: John Doe
+Receiver: Red Cross
+Amount: £2538
+
+Transaction Details: Marketing campaign funding of $2975 from Jane Smith to Future Tech.
+Payer: Jane Smith
+Receiver: Future Tech
+Amount: $2975
+
+Transaction Details: Payment for medical supplies of €2568 from Acme Corp to Michael Johnson.
+Payer: Acme Corp
+Receiver: Michael Johnson
+Amount: €2568
+
+Transaction Details: Marketing campaign funding of $1195 from XYZ Ltd to XYZ Investments.
+Payer: XYZ Ltd
+Receiver: XYZ Investments
+Amount: $1195
+
+Transaction Details: Equipment procurement of $983 from Tech Innovations to Global Health Foundation.
+Payer: Tech Innovations
+Receiver: Global Health Foundation
+Amount: $983
+
+Transaction Details: Equipment procurement of £634 from Tech Innovations to Financial Trust.
+Payer: Tech Innovations
+Receiver: Financial Trust
+Amount: £634
+
+Transaction Details: Marketing campaign funding of €882 from FinTech Solutions to Save The Children.
+Payer: FinTech Solutions
+Receiver: Save The Children
+Amount: €882
+
+Transaction Details: Charity donation of £3504 from Global Aid Fund to Michael Johnson.
+Payer: Global Aid Fund
+Receiver: Michael Johnson
+Amount: £3504
+
+Transaction Details: Wire transfer for stock purchase of $1042 from Global Aid Fund to Smith & Associates.
+Payer: Global Aid Fund
+Receiver: Smith & Associates
+Amount: $1042
+
+Transaction Details: Donation for education programs of £1040 from John Doe to Financial Trust.
+Payer: John Doe
+Receiver: Financial Trust
+Amount: £1040
+
+Transaction Details: Software development fee of $1669 from John Doe to Michael Johnson.
+Payer: John Doe
+Receiver: Michael Johnson
+Amount: $1669
+
+Transaction Details: Monthly salary transfer of $1045 from Global Aid Fund to Green Energy Inc..
+Payer: Global Aid Fund
+Receiver: Green Energy Inc.
+Amount: $1045
+
+Transaction Details: Monthly salary transfer of $1262 from Jane Smith to Smith & Associates.
+Payer: Jane Smith
+Receiver: Smith & Associates
+Amount: $1262
+
+Transaction Details: Wire transfer for stock purchase of €2377 from FinTech Solutions to Save The Children.
+Payer: FinTech Solutions
+Receiver: Save The Children
+Amount: €2377
+
+Transaction Details: Monthly salary transfer of £4219 from John Doe to XYZ Investments.
+Payer: John Doe
+Receiver: XYZ Investments
+Amount: £4219
+
+Transaction Details: Monthly salary transfer of $2170 from Healthcare Trust to Red Cross.
+Payer: Healthcare Trust
+Receiver: Red Cross
+Amount: $2170
+
+Transaction Details: Equipment procurement of $4202 from Global Aid Fund to Future Tech.
+Payer: Global Aid Fund
+Receiver: Future Tech
+Amount: $4202
+
+Transaction Details: Legal services fee of €3725 from ABC Enterprises to Green Energy Inc..
+Payer: ABC Enterprises
+Receiver: Green Energy Inc.
+Amount: €3725
+
+Transaction Details: Donation for education programs of $1223 from John Doe to Future Tech.
+Payer: John Doe
+Receiver: Future Tech
+Amount: $1223
+
+Transaction Details: Charity donation of $1233 from Smith & Associates to Michael Johnson.
+Payer: Smith & Associates
+Receiver: Michael Johnson
+Amount: $1233
+
+Transaction Details: Wire transfer for stock purchase of €4023 from XYZ Ltd to Michael Johnson.
+Payer: XYZ Ltd
+Receiver: Michael Johnson
+Amount: €4023
+
+Transaction Details: Payment for medical supplies of £3443 from Tech Innovations to Green Energy Inc..
+Payer: Tech Innovations
+Receiver: Green Energy Inc.
+Amount: £3443
+
+Transaction Details: Wire transfer for stock purchase of £1792 from FinTech Solutions to Charity Fund.
+Payer: FinTech Solutions
+Receiver: Charity Fund
+Amount: £1792
+
+Transaction Details: Equipment procurement of $3670 from Smith & Associates to Financial Trust.
+Payer: Smith & Associates
+Receiver: Financial Trust
+Amount: $3670
+
+Transaction Details: Charity donation of £1498 from Tech Innovations to Save The Children.
+Payer: Tech Innovations
+Receiver: Save The Children
+Amount: £1498
+
+Transaction Details: Software development fee of £1638 from XYZ Ltd to Michael Johnson.
+Payer: XYZ Ltd
+Receiver: Michael Johnson
+Amount: £1638
+
+Transaction Details: Consulting services payment of €912 from Healthcare Trust to Red Cross.
+Payer: Healthcare Trust
+Receiver: Red Cross
+Amount: €912
+
+Transaction Details: Wire transfer for stock purchase of $4846 from Smith & Associates to Red Cross.
+Payer: Smith & Associates
+Receiver: Red Cross
+Amount: $4846
+
+Transaction Details: Monthly salary transfer of £3074 from John Doe to Green Energy Inc..
+Payer: John Doe
+Receiver: Green Energy Inc.
+Amount: £3074
+
+Transaction Details: Payment for medical supplies of €155 from Acme Corp to Michael Johnson.
+Payer: Acme Corp
+Receiver: Michael Johnson
+Amount: €155
+
+Transaction Details: Wire transfer for stock purchase of €594 from Acme Corp to Smith & Associates.
+Payer: Acme Corp
+Receiver: Smith & Associates
+Amount: €594
+
+Transaction Details: Wire transfer for stock purchase of £3898 from Tech Innovations to Save The Children.
+Payer: Tech Innovations
+Receiver: Save The Children
+Amount: £3898
+
+Transaction Details: Payment for medical supplies of $4122 from Tech Innovations to Michael Johnson.
+Payer: Tech Innovations
+Receiver: Michael Johnson
+Amount: $4122
+
+Transaction Details: Legal services fee of £2404 from FinTech Solutions to Financial Trust.
+Payer: FinTech Solutions
+Receiver: Financial Trust
+Amount: £2404
+
+Transaction Details: Equipment procurement of €807 from Healthcare Trust to Global Health Foundation.
+Payer: Healthcare Trust
+Receiver: Global Health Foundation
+Amount: €807
+
